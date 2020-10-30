@@ -1,0 +1,17 @@
+Client: 2019-10-16 15:46:30.897086GET /res.txt HTTP/1.1
+Host: 127.0.0.1:1234
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+Server : 4096HTTP/1.1 200 OK
+Server : Microsoft-IIS/5.0
+Date : Sat, 15 Jan 2007 14:37:12 GMT
+Content-Type : text/html; charset=iso-8859-1
+Content-Length : 4094
+Last-Modified : Fri, 14 Jan 2007 08:25:13 GMT
+
+hhiiiiiiiiiiiiiiiiiiiiiiiiiii
